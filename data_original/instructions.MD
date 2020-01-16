@@ -1,4 +1,4 @@
-## Instructions
+## Instructions:
 1. Go to the [Citibike Data Page](https://s3.amazonaws.com/tripdata/index.html).
 2. Download the `CSV`files for the months you want to perform the analysis. For this project this is the list of files:
 -  201701-citibike-tripdata.csv.zip
