@@ -31,4 +31,4 @@ The purpose of this project is to aggregate, describe and analize phenomena foun
 
 The most popular Citibike stations are next to huge transportation hubs (Grand Central Terminal and Penn Station) and have bike lanes nearby. This situation is summarized in the chart below for the most popular Citibike Stations for the timespan of the analysis.
 
-[Popular Station Analysis](screenshots/popular_station_analysis.png "Popular Station Analysis")
+![Popular Station Analysis](screenshots/popular_station_analysis.png "Popular Station Analysis")
