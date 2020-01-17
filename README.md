@@ -1,5 +1,7 @@
 # Citibike Metrics
 
+![Citibike](screenshots/Citibike.png "Citibike")
+
 ## Project description
 
 The purpose of this project is to aggregate, describe and analize phenomena found in the Citibike program in New York City.
@@ -36,6 +38,8 @@ The purpose of this project is to aggregate, describe and analize phenomena foun
 3. Use of `Tableau` to describe and analyze the phenomena from the data by creating `visualizations`, `dashboards`, and a `story`
 
 ### Screenshots
+
+![Visualization Running](screenshots/screenshot.png "Visualization Running")
 
 ### Analysis
 
