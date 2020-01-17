@@ -39,18 +39,18 @@ The most popular Citibike stations are next to huge transportation hubs (Grand C
 
 1. The Citibike program reported more rides during the summer months and increased progresively to the warmer months of the year.
 
-##### Type of Consumer
+#### Type of Consumer
 
 1. The subscribers take most of the Citibike program rides
 2. Subscriber rides take less than 15 minutes while Costumer rides are over 20 minutes.
 3. According to the data, the subscribers use the program for commuting, while the subscribers use it for sightseen.
 
-##### Gender
+#### Gender
 
 1. Men use the program much more than women. This could be explained by the fact that the clothing of women commuters make riding a bike more dificult. Non-Commuter women is a small proportion of the total rides.
 2. Women take a couple of minutes more than men consistently. This could be because women in general are more cautious  than men.
 
-##### Age
+#### Age
 
 1. More than a third of the bike rides are taken by people between 25 and 35 years old.
 2. In general, people over 45 years old spend one minute less on a bike ride on average. This could be because they don't want to spend as much time as younger people.
