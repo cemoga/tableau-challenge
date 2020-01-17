@@ -17,7 +17,7 @@ Aggregating, describing and analyzing phenomena found in the Citibike program in
 
     - The `Pandas DataFrame` containing the data of all the months was filtered to eliminate the outliers.
     - New aggregated `Pandas DataFrames` were created summarizing the data by `costumer tye and gender`, by `starting station name` and for `stoping station name.
-    - Small product of the aggregation `CSV` files were exported to the `data_output` folder.
+    - Small `CSV` files, product of the aggregation, were exported to the `data_output` folder.
 
 3. Using `Tableau` to describe and analyze the phenomena from the data by creating `visualizations`, `dashboards` and a `story`.
 
