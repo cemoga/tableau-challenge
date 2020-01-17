@@ -39,7 +39,7 @@ The purpose of this project is to aggregate, describe and analize phenomena foun
 
 ### Screenshots
 
-![Visualization Running](screenshots/screenshot.png "Visualization Running")
+![Visualization Running](screenshots/screenshot.gif "Visualization Running")
 
 ### Analysis
 
