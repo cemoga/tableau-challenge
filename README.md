@@ -4,6 +4,16 @@
 
 The purpose of this project is to aggregate, describe and analize phenomena found in the Citibike program in New York City.
 
+## Toos Used
+
+1. Python (Data Aggregation)
+
+    - Pandas Library
+
+2. Tableau (Visualization and Analysis)
+
+3. Github (Publishing of Results and Analysis)
+
 ## Link to the visualizations
 
 - [Tableau Public](https://public.tableau.com/profile/cesar.mosquera#!/vizhome/Citibike_15789352935200/CitibikeProgramMetrics-Story).
@@ -37,7 +47,7 @@ The most popular Citibike stations are next to huge transportation hubs (Grand C
 
 #### Trends
 
-1. The Citibike program reported more rides during the summer months and increased progresively to the warmer months of the year.
+- The Citibike program reported more rides during the summer months and increased progresively to the warmer months of the year.
 
 #### Type of Consumer
 
