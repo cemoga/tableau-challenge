@@ -2,7 +2,11 @@
 
 ## Project description
 
-Aggregating, describing and analyzing phenomena found in the Citibike program in New York City.
+The purpose of this project is to aggregate, describe and analize phenomena found in the Citibike program in New York City.
+
+## Link to the visualizations
+
+- [Tableau Public](https://public.tableau.com/profile/cesar.mosquera#!/vizhome/Citibike_15789352935200/CitibikeProgramMetrics-Story).
 
 ### Steps
 
@@ -22,3 +26,9 @@ Aggregating, describing and analyzing phenomena found in the Citibike program in
 3. Use of `Tableau` to describe and analyze the phenomena from the data by creating `visualizations`, `dashboards`, and a `story`
 
 ### Screenshots
+
+### Analysis
+
+The most popular Citibike stations are next to huge transportation hubs (Grand Central Terminal and Penn Station) and have bike lanes nearby. This situation is summarized in the chart below for the most popular Citibike Stations for the timespan of the analysis.
+
+[Popular Station Analysis](screenshots/popular_station_analysis.png "Popular Station Analysis")
