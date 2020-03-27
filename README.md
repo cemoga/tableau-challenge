@@ -69,5 +69,5 @@ The most popular Citibike stations are next to huge transportation hubs (Grand C
 1. More than a third of the bike rides are taken by people between 25 and 35 years old.
 2. In general, people over 45 years old spend one minute less on a bike ride on average. This could be because they don't want to spend as much time as younger people.
 3. People who are between 45 and 55 years old, take one minute longer than younger people. This could be because it takes longer for them to cover the same distances than younger people.
-4. Groups of people in the age groups of 25 to 35 and 35 to 45 years old. take bike rides of a very similar duration.
+4. Groups of people in the age groups of 25 to 35 and 35 to 45 years old take bike rides of a very similar duration.
 5. Younger people from 15 to 25 use the program the least. This could be because they own their bikes or the bike program is under an adult name in the case of people younger than 21.
