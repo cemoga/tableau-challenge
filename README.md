@@ -2,6 +2,8 @@
 
 ![Citibike](screenshots/Citibike.png "Citibike")
 
+---
+
 ![Visualization Running](screenshots/screenshot.gif "Visualization Running")
 
 ---
