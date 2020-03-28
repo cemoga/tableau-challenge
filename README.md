@@ -2,6 +2,10 @@
 
 ![Citibike](screenshots/Citibike.png "Citibike")
 
+![Visualization Running](screenshots/screenshot.gif "Visualization Running")
+
+---
+
 ## Project description
 
 The purpose of this project is to aggregate, describe and analyze phenomena found in the Citibike program in New York City.
@@ -36,10 +40,6 @@ The purpose of this project is to aggregate, describe and analyze phenomena foun
     - Small `CSV` files, the product of the aggregation, were exported to the `data_output` folder
 
 3. Use of `Tableau` to describe and analyze the phenomena from the data by creating `visualizations`, `dashboards`, and a `story`
-
-### Screenshots
-
-![Visualization Running](screenshots/screenshot.gif "Visualization Running")
 
 ### Analysis
 
